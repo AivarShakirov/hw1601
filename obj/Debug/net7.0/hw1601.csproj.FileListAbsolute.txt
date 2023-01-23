@@ -1,0 +1,15 @@
+C:\Users\Айвар\Desktop\hw1601\obj\Debug\net7.0\hw1601.csproj.AssemblyReference.cache
+C:\Users\Айвар\Desktop\hw1601\obj\Debug\net7.0\hw1601.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Айвар\Desktop\hw1601\obj\Debug\net7.0\hw1601.AssemblyInfoInputs.cache
+C:\Users\Айвар\Desktop\hw1601\obj\Debug\net7.0\hw1601.AssemblyInfo.cs
+C:\Users\Айвар\Desktop\hw1601\obj\Debug\net7.0\hw1601.csproj.CoreCompileInputs.cache
+C:\Users\Айвар\Desktop\hw1601\bin\Debug\net7.0\hw1601.exe
+C:\Users\Айвар\Desktop\hw1601\bin\Debug\net7.0\hw1601.deps.json
+C:\Users\Айвар\Desktop\hw1601\bin\Debug\net7.0\hw1601.runtimeconfig.json
+C:\Users\Айвар\Desktop\hw1601\bin\Debug\net7.0\hw1601.dll
+C:\Users\Айвар\Desktop\hw1601\bin\Debug\net7.0\hw1601.pdb
+C:\Users\Айвар\Desktop\hw1601\obj\Debug\net7.0\hw1601.dll
+C:\Users\Айвар\Desktop\hw1601\obj\Debug\net7.0\refint\hw1601.dll
+C:\Users\Айвар\Desktop\hw1601\obj\Debug\net7.0\hw1601.pdb
+C:\Users\Айвар\Desktop\hw1601\obj\Debug\net7.0\hw1601.genruntimeconfig.cache
+C:\Users\Айвар\Desktop\hw1601\obj\Debug\net7.0\ref\hw1601.dll
